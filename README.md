@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Thiago Rodrigues</h1>
+<h1 align="center">Hi 👋, i am Thiago Rodrigues</h1>
 <h3 align="center">A passionate Full Stack Developer from Brasil</h3>
+
+![](https://komarev.com/ghpvc/?username=thiagorcode&color=blueviolet)
 
 - 🔭 I’m currently working on [Database Relation GoStack Challenge](https://github.com/thiagorcode/databaseRelationGoStack)
 
-- 🌱 I’m currently learning **GoStack**
+- 🌱 I’m currently learning **Node and React with Typescript**
 
 - 💬 Ask me about **Node, React**
 
@@ -11,13 +13,13 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/thiagorodrig/](https://www.linkedin.com/in/thiagorodrig/)
 
-- ⚡ Fun fact **I like music and investment**
+- ⚡ Fun fact **I am a musician and investor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thiagorodrig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="thiagorodrig" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/dev.thiago/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dev.thiago/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://twitch.tv/thiagorcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="https://twitch.tv/thiagorcode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thiagorodrig" target="blank" style="font-size:16px; color: black"><i class="fa fa-linkedin-square" style="font-size:36px; color: #0A66C2"></i><span style="padding-left: 10px;">Linkedin</span></a>
+<a href="https://instagram.com/dev.thiago" target="blank" style="font-size:16px; color: black"><i class="fa fa-instagram" style="font-size:36px; color: #333333"></i><span style="padding-left: 10px;">Instagram</span></a>
+<a href="https://www.twitch.tv/thiagorcode" target="blank" style="font-size:16px; color: black"><i class="fa fa-twitch" style="font-size:36px; color: #9147FF"></i><span style="padding-left: 10px;">Twitch</span></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
