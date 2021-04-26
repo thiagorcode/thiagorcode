@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, i am Thiago Rodrigues</h1>
 <h3 align="center">A passionate Full Stack Developer from Brasil</h3>
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 ![](https://komarev.com/ghpvc/?username=thiagorcode&color=blueviolet)
 
 - 🔭 I’m currently working on [Database Relation GoStack Challenge](https://github.com/thiagorcode/databaseRelationGoStack)
