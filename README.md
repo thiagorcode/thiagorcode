@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, i am Thiago Rodrigues</h1>
-<h3 align="center">A passionate Full Stack Developer from Brasil</h3>
+<h3 align="center">A passionate Full Stack Developer from Brazil</h3>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
