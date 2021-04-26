@@ -44,8 +44,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thiagorodrig" target="blank" style="font-size:16px; color: black"><img src="https://github.com/feathericons/feather/blob/master/icons/instagram.svg" alt="instagram" width="20" height="20" color: "#333333"/><span style="padding-left: 10px;">Linkedin</span></a>
-<a href="https://instagram.com/dev.thiago" target="blank" style="font-size:16px; color: black"><i class="fa fa-instagram" style="font-size:36px; color: #333333"></i><span style="padding-left: 10px;">Instagram</span></a>
+<a href="https://linkedin.com/in/thiagorodrig" target="blank" style="font-size:16px; color: black"><span style="padding-left: 10px;">Linkedin</span></a>
+<a href="https://instagram.com/dev.thiago" target="blank" style="font-size:16px; color: black"><img src="https://github.com/feathericons/feather/blob/master/icons/instagram.svg" alt="instagram" width="20" height="20" color: "#333333"/><span style="padding-left: 10px;">Instagram</span></a>
 <a href="https://www.twitch.tv/thiagorcode" target="blank" style="font-size:16px; color: black"><i class="fa fa-twitch" style="font-size:36px; color: #9147FF"></i><span style="padding-left: 10px;">Twitch</span></a>
 </p>
 
