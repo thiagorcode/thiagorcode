@@ -43,11 +43,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagorcode)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagorcode&hide=contribs,prs)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagorcode&count_private=true)
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagorcode&show_icons=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thiagorodrig" target="_blank" style="font-size:16px; color: black"><span style="padding-left: 10px;">Linkedin</span></a>
