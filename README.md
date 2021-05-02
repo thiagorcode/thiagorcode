@@ -43,11 +43,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagorcode)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagorcode&hide=contribs,prs)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagorcode&count_private=true)
-
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagorcode&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorcode)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
