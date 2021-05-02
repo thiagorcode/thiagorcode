@@ -41,6 +41,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="48" height="48"/>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagorcode)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
