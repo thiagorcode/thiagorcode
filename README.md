@@ -47,8 +47,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thiagorodrig" target="_blank" style="font-size:16px; color: black"><span style="padding-left: 10px;">Linkedin</span></a>
-<a href="https://instagram.com/dev.thiago" target="_blank" style="font-size:16px; color: black"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" color: "#333333"/></a>
-<a href="https://www.twitch.tv/thiagorcode" target="_blank" style="font-size:16px; color: black"><i class="fa fa-twitch" style="font-size:36px; color: #9147FF"></i><span style="padding-left: 10px;">Twitch</span></a>
+<a href="https://linkedin.com/in/thiagorodrig" target="_blank" style="font-size:16px; color: black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+<a href="https://instagram.com/dev.thiago" target="_blank" style="font-size:16px; color: black"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+<a href="https://www.twitch.tv/thiagorcode" target="_blank" style="font-size:16px; color: black"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
 </p>
 
