@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=thiagorcode&color=blueviolet)
 
-- 🔭 I’m currently working on [Database Relation GoStack Challenge](https://github.com/thiagorcode/databaseRelationGoStack)
+- 🔭 I’m currently working on [WebFinances](https://github.com/thiagorcode/WebFinances)
 
 - 🌱 I’m currently learning **Node and React with Typescript**
 
