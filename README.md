@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [WebFinances](https://github.com/thiagorcode/WebFinances)
 
-- 🌱 I’m currently learning **Node and React with Typescript**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **Node, React**
+- 💬 Ask me about **Node, React and React Native**
 
 - 📫 How to reach me **ti.thiago.rodrigues@protonmail.com**
 
