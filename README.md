@@ -33,6 +33,7 @@
 ## Framework Back end
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="express" width="48" height="48"/>
 </p>
 
 ## Database management system
