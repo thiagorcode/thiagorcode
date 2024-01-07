@@ -5,11 +5,11 @@
 
 ![](https://komarev.com/ghpvc/?username=thiagorcode&color=blueviolet)
 
-- 🔭 I’m currently working on [WebFinances](https://github.com/thiagorcode/WebFinances)
+- 🔭 I’m currently working on [Finances](https://github.com/thiagorcode/ifinances-serverless)
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **Node, React and React Native**
+- 💬 Ask me about **Node, React, React Native and Lambda**
 
 - 📫 How to reach me **ti.thiago.rodrigues@protonmail.com**
 
