@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Node, React, React Native and Lambda**
 
-- 📫 How to reach me **ti.thiago.rodrigues@protonmail.com**
+- 📫 How to reach me **thiagorodri.dev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/thiagorodrig/](https://www.linkedin.com/in/thiagorodrig/)
 
